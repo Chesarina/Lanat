@@ -10,6 +10,7 @@
 </div>
 
 <br><br>
+Hello world!
 
 > [!IMPORTANT]
 > **This project is still in development.** It is not recommended to use Lanat in production, as it could possibly
